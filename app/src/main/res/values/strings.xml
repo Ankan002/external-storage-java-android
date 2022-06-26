@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">External Storage Writer</string>
+    <string name="enter_text">Enter Text</string>
+    <string name="save_text">Save Text</string>
+</resources>
